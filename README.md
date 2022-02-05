@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reganh342
-- 👀 I’m interested in programming, hollow knight, writing, and amphibia
-- 🌱 I’m currently learning java (and spanish)
-- 💞️ I’m looking to collaborate on the team code
+- 👀 programming, hollow knight, writing, and amphibia
+- 🌱 java user woah
+- 💞️ cats
 - 📫 How to reach me: good luck
 
 <!---
